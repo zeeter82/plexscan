@@ -14,9 +14,9 @@ This is a generic/sample file and needs to be configured for your setup/environm
   
   
   
-*** Please update the Plex-Token with your unique token - replace `aaabbbccc111222333` with your own  
+* Please update the Plex-Token with your unique token - replace `aaabbbccc111222333` with your own  
   
-*** Please update the text for how you would like the right click options to appear  
+* Please update the text for how you would like the right click options to appear  
   
-*** Please update the sections with your correct library ID's  
+* Please update the sections with your correct library ID's  
   
