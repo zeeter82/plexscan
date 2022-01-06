@@ -4,7 +4,7 @@
 
 This reg file can be used for right click shell options in Windows for scanning Plex content into  
 their respective libraries.  It takes advantage of PowerShell and Plex's URL command options.  This  
-seems to be a lot more stable and consistent than using the normal 'Plex Media Scanner.exe' 
+seems to be a lot more stable and consistent than using the normal 'Plex Media Scanner.exe'  
 command line options.  
 <br />
 
