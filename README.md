@@ -9,13 +9,11 @@ URL command options - This seems to be a lot more stable and consistent than usi
 the normal 'Plex Media Scanner.exe' command line options.</h4>
 <br />
 <br />
-<br />
-<br />
-This is a sample reg file and needs to be configured for your setup/environment 
+This is a sample reg file and needs to be configured for your setup/environment  
 before merging.  
 <br />
 <br />
-* Please update the Plex-Token with your unique token - replace `aaabbbccc111222333` 
+* Please update the Plex-Token with your unique token - replace *aaabbbccc111222333*  
 with your own  
 <br />
 * Please update the text for how you would like the right click options to appear  
