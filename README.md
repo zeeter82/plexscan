@@ -11,6 +11,8 @@ command line options.
 This is a sample reg file and needs to be configured for your setup/environment before merging.  
 <br />
 
-- Please update the Plex-Token with your unique token. Replace `aaabbbccc111222333` with your own  
+- Please update the [Plex-Token][1] with your unique token. Replace `aaabbbccc111222333` with your own  
 - Please update the text for how you would like the right click options to appear  
 - Please update the sections with your correct library ID's  
+
+[1]: https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
