@@ -1,7 +1,5 @@
-<h4>
 **zeeter82**  
-**powershell_plexscan.reg**
-</h4>
+**powershell_plexscan.reg**  
 <br />
 
 This reg file can be used for right click shell options in Windows for scanning Plex  
