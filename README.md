@@ -12,7 +12,7 @@ normal 'Plex Media Scanner.exe' command line options
 This is a generic/sample file and needs to be configured for your setup/environment  
   
   
-***Please update the Plex-Token with your unique token - replace aaabbbccc111222333 with 
+***Please update the Plex-Token with your unique token - replace `aaabbbccc111222333` with 
 your own.  
   
 ***Please update the text for how you would like the right click options to appear  
