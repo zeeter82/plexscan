@@ -13,6 +13,10 @@ the normal 'Plex Media Scanner.exe' command line options.  </h4>
   
   
   
+<br />
+<br />
+<br />
+<br />
 This is a generic/sample file and needs to be configured for your setup/environment  
   
   
